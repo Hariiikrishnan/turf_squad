@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622902837413",
+    "project_id": "turf-squad",
+    "storage_bucket": "turf-squad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622902837413:android:60f2c495750094e0380d4c",
+        "android_client_info": {
+          "package_name": "com.example.turf_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKg5TdobwTCjCMARY6NfR9kkL31DeT6pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
